@@ -6,10 +6,10 @@ This Chrome Extension lets you track the prices of **Top seven cryptocurrencies*
 
 1. Type in *chrome://extensions* in the address bar. 
 
-2. Turn on **Developer Mode** if it's not. 
+2. Turn on **Developer Mode** if it's not.
 ![Image Of Developer Mode](https://github.com/saketgautam/Crypto-Tracker-chrome-extension/blob/main/Developer%20Mode.png)
 
-3. Once it's turned on, there will be an option for _load unpacked_ , Once you click on it there will be a popup prompting you to choose your project folder. Locate to the directory where you've downloaded the project. Here, named as **Crypto Tracker**
+3. Once it's turned on, there will be an option for _load unpacked_ , Once you click on it there will be a popup prompting you to choose your project folder. Locate to the directory where you've downloaded the project. Here, named as **Crypto Tracker** 
 ![Image Of Folder Upload](https://github.com/saketgautam/Crypto-Tracker-chrome-extension/blob/main/Load_unpacked_extension.png)
 
 4. If you've uploaded the correct folder, you'll see that the extension is added.
