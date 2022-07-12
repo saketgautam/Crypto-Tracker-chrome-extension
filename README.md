@@ -2,7 +2,7 @@
 
 This Chrome Extension lets you track the prices of **Top seven cryptocurrencies** in USD. 
 
-### How to install the chrome extension?
+## How to install the chrome extension?
 
 1. Type in *chrome://extensions* in the address bar. 
 
@@ -18,7 +18,7 @@ This Chrome Extension lets you track the prices of **Top seven cryptocurrencies*
 That's it! Now, the chrome extension will be working fine.
 
 
-### Built with
+## Tools Used
 
 1. Javascript
 2. HTML
@@ -27,6 +27,6 @@ That's it! Now, the chrome extension will be working fine.
 
 ![Image of Extension displaying prices](https://github.com/saketgautam/Crypto-Tracker-chrome-extension/blob/main/Chrome_Extension.png)
 
-### API used
+## API used
 
 CoinGecko API. Read the documentation [here](https://www.coingecko.com/en/api/documentation).
