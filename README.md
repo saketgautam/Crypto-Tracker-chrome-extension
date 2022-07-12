@@ -20,7 +20,7 @@ That's it! Now, the chrome extension will be working fine.
 
 ## Tools Used
 
-1. Javascript
+1. JavaScript
 2. HTML
 3. CSS
 4. Bootstrap
